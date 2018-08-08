@@ -1,0 +1,30 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-141-1-255,,,83-255-14-255,,,61-55-255-255,,,24-14-255-255,,,0-100-0-255,,,34-155-29-255,,,46-28-208-255,,,27-33-208-255,,,49-20-208-255,,,255-47-35-255,,,58-217-0-255,,,72-157-208-255,,,55-92-208-255,,,69-119-208-255,,,229-255-44-255,,,196-103-1-255,,,222-164-49-255,,,107-197-208-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="comment" />
+    <property name="LAST_INJECTED_LANGUAGE" value="Python" />
+    <property name="OpenOrAttachDialog.OpenMode" value="attach" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SplitFileEditor.Proportion" value="0.62920594" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="export.settings.path" value="$USER_HOME$/workspace/massiou/sandbox/cobal_new.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/workspace/aws/codecommit/buddycenter&#10;/home/mvelay/workspace/ring_hdbuild&#10;/home/mvelay/workspace/test_tools/testrail&#10;/home/mvelay/workspace/testrail&#10;/home/mvelay/workspace/ring_hd&#10;/home/mvelay/workspace&#10;/home/mvelay/workspace/hackathon&#10;/usr/local/lib/python2.7/dist-packages/web/application.py&#10;/home/mvelay/workspace/ring_odr&#10;/home/mvelay/workspace/e2e&#10;/home/mvelay/odr&#10;/home/mvelay/workspace/ring_5.1&#10;/home/mvelay/workspace/test_tools&#10;/home/mvelay/workspace/testrail2&#10;/home/mvelay/workspace/testrail/testrail.py&#10;/home/mvelay/workspace/mvelay&#10;/home/mvelay/workspace/ring&#10;/home/mvelay/workspace/geosync&#10;/home/mvelay/workspace/sandbox&#10;/home/mvelay/Téléchargements/Cobalt.jar" />
+    <property name="file.gist.reindex.count" value="120663" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="lastTip" value="48" />
+    <property name="org.rust.LAST_UPDATE" value="1490899660300" />
+    <property name="selected.color.option.type" value="BASH.INTERNAL_COMMAND" />
+    <property name="settings.code.style.selected.tab.Python" value="Spaces" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+  </component>
+</application>

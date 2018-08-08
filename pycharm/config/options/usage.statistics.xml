@@ -1,0 +1,180 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Paste" count="1" />
+      <entry action="$Undo" count="3" />
+      <entry action="EditorBackSpace" count="282" />
+      <entry action="EditorChooseLookupItem" count="8" />
+      <entry action="EditorCopy" count="6" />
+      <entry action="EditorDelete" count="26" />
+      <entry action="EditorDown" count="124" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorEnter" count="52" />
+      <entry action="EditorLeft" count="190" />
+      <entry action="EditorLeftWithSelection" count="30" />
+      <entry action="EditorLineEnd" count="14" />
+      <entry action="EditorLineEndWithSelection" count="1" />
+      <entry action="EditorLineStart" count="1" />
+      <entry action="EditorLineStartWithSelection" count="1" />
+      <entry action="EditorPaste" count="3" />
+      <entry action="EditorPasteFromX11" count="3" />
+      <entry action="EditorRight" count="24" />
+      <entry action="EditorTab" count="1" />
+      <entry action="EditorUp" count="74" />
+      <entry action="Find" count="14" />
+      <entry action="GotoDeclaration" count="6" />
+      <entry action="NewDirectoryProject" count="1" />
+      <entry action="OpenFile" count="1" />
+      <entry action="Replace" count="1" />
+      <entry action="SaveAll" count="22" />
+      <entry action="ShowSettings" count="2" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="com.jetbrains.rest.sphinx.RunSphinxQuickStartAction" count="1" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1484823585338" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.camelHumps" count="11" last-shown="0" last-used="1533284052435" shown-count="0" />
+    <feature id="codeassists.comment.line" count="6" last-shown="0" last-used="1517239932803" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="8" last-shown="0" last-used="1508844755340" shown-count="0" />
+    <feature id="navigation.popup.action" count="29" last-shown="0" last-used="1500973344108" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="5" last-shown="1533284421912" last-used="1511859368743" shown-count="424" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="10" last-shown="0" last-used="1524829484506" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1497270725411" last-used="0" shown-count="1" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="2449" last-shown="0" last-used="1533284057380" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="15575" last-shown="0" last-used="1533284362430" shown-count="0" />
+    <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="1885" last-shown="0" last-used="1533219898354" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="6" last-shown="1500973181649" last-used="1503495280725" shown-count="2" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="2" last-shown="1497270725411" last-used="1518619407421" shown-count="1" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="12" last-shown="0" last-used="1519718776866" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="18506" />
+      <option name="invocations" value="2265" />
+      <option name="startDate" value="1484866800000" />
+      <option name="dayCount" value="253" />
+      <option name="lastDate" value="1533247200000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="17" />
+      <option name="startDate" value="1485990000000" />
+      <option name="dayCount" value="7" />
+      <option name="lastDate" value="1500933600000" />
+    </fixesStatsTag>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; New Project..." count="1" />
+      <entry path="File -&gt; Open..." count="1" />
+      <entry path="File -&gt; Settings..." count="2" />
+      <entry path="Tools -&gt; Sphinx Quickstart" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="281" />
+      <entry shortcut="Ctrl+C" count="6" />
+      <entry shortcut="Ctrl+D" count="1" />
+      <entry shortcut="Ctrl+F" count="15" />
+      <entry shortcut="Ctrl+R" count="1" />
+      <entry shortcut="Ctrl+S" count="22" />
+      <entry shortcut="Ctrl+V" count="3" />
+      <entry shortcut="Ctrl+Z" count="3" />
+      <entry shortcut="Delete" count="26" />
+      <entry shortcut="Down" count="155" />
+      <entry shortcut="End" count="14" />
+      <entry shortcut="Enter" count="60" />
+      <entry shortcut="Home" count="1" />
+      <entry shortcut="Left" count="190" />
+      <entry shortcut="Right" count="24" />
+      <entry shortcut="Shift+Backspace" count="1" />
+      <entry shortcut="Shift+End" count="1" />
+      <entry shortcut="Shift+Home" count="1" />
+      <entry shortcut="Shift+Left" count="30" />
+      <entry shortcut="Tab" count="1" />
+      <entry shortcut="Up" count="74" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="all-bundled-tools">
+      <project id="sandbox" values="yaml.YAMLUnresolvedAlias,Python.PyExceptionInherit,Python.PyMissingTypeHints,Python.PyMethodFirstArgAssignment,Python.PyAttributeOutsideInit,yaml.YAMLSchemaValidation,Python.PyProtectedMember,null.NonAsciiCharacters,XML.CheckTagEmptyBody,null.InconsistentLineSeparators,null.InjectedReferences,XML.XmlDuplicatedId,Python.PyDeprecation,null.UnusedDefine,Python.PyUnnecessaryBackslash,null.ProblematicWhitespace,Python.PyMethodOverriding,Python.PyClassicStyleClass,Python.PyUnreachableCode,RegExp.RegExpSingleCharAlternation,XML.CheckValidXmlInScriptTagBody,Properties.WrongPropertyKeyValueDelimiter,Python.PyInitNewSignature,Python.PyNestedDecorators,Python.PyTupleItemAssignment,Properties.TrailingSpacesInProperty,XML.HtmlUnknownAnchorTarget,Python.PyTypeChecker,yaml.YAMLDuplicatedKeys,HTML.HtmlUnknownAttribute,RegExp.RegExpRepeatedSpace,Python.PyProtocol,Python.PyReturnFromInit,yaml.YAMLUnusedAnchor,Python.PyStringException,Python.PyDunderSlots,XML.CheckXmlFileWithXercesValidator,Python.PyShadowingBuiltins,Python.PyUnboundLocalVariable,HTML.HtmlUnknownTag,XML.XmlHighlighting,HTML.HtmlExtraClosingTag,RegExp.RegExpEmptyAlternationBranch,HTML.HtmlMissingClosingTag,null.TodoComment,XML.XmlWrongRootElement,CommandLine.CommandLineInspection,Python.PySingleQuotedDocstring,Python.PySetFunctionToLiteral,Python.PyMissingConstructor,Python.PyDictCreation,Python.PyChainedComparisons,Python.PyStringFormat,Python.PyAugmentAssignment,null.SpellCheckingInspection,Python.PyDocstringTypes,Python.PyDictDuplicateKeys,Python.PyCallingNonCallable,XML.XmlUnusedNamespaceDeclaration,Python.PyShadowingNames,null.PyPackageRequirements,XML.RequiredAttributes,RegExp.RegExpDuplicateAlternationBranch,null.LongLine,Python.PyMethodMayBeStatic,null.UnresolvedReference,Python.PyTupleAssignmentBalance,XML.CheckDtdRefs,Python.PyPropertyAccess,Python.PyMissingOrEmptyDocstring,Python.PyComparisonWithNone,Python.PyUnresolvedReferences,RegExp.RegExpEscapedMetaCharacter,Python.PyTestParametrized,Python.PyPep8,ReST.RestRoleInspection,JSON.JsonStandardCompliance,Python.PyNonAsciiChar,Python.PySimplifyBooleanCheck,XML.XmlPathReference,Python.PyCompatibility,Python.PyIncorrectDocstring,XML.CheckEmptyScriptTag,Python.PyOverloads,Python.PyStatementEffect,XML.HtmlUnknownTarget,Python.PyOldStyleClasses,Python.PyArgumentList,Python.PyFromFutureImport,XML.XmlUnboundNsPrefix,Properties.UnusedProperty,Properties.IncompleteProperty,Python.PyArgumentEqualDefault,Python.PyAssignmentToLoopOrWithParameter,Properties.AlphaUnsortedPropertiesFile,Python.PyAsyncCall,null.LossyEncoding,JSON.JsonDuplicatePropertyKeys,Python.PyTypeHints,RegExp.RegExpAnonymousGroup,Python.PyByteLiteral,yaml.YAMLRecursiveAlias,BuildoutCfg.BuildoutUnresolvedPartInspection,Python.PyExceptClausesOrder,JSON.JsonSchemaCompliance,Python.PyDefaultArgument,Python.PyTrailingSemicolon,null.Annotator,Python.PyClassHasNoInit,Python.PyNamedTuple,Python.PyInterpreter,Python.PyCallByClass,JSON5.Json5StandardCompliance,Python.PyGlobalUndefined,Python.PyDataclass,Python.PySuperArguments,Python.PyInconsistentIndentation,Python.PyNoneFunctionAssignment,Python.PyPropertyDefinition,Python.PyRedeclaration,RegExp.RegExpRedundantEscape,RegExp.RegExpOctalEscape,Properties.DuplicatePropertyInspection,Python.PyAbstractClass,Python.PyPep8Naming,RegExp.RegExpUnexpectedAnchor,XML.XmlInvalidId,HTML.HtmlUnknownBooleanAttribute,Python.PyRedundantParentheses,XML.XmlDefaultAttributeValue,Python.PyMethodParameters,Python.PyListCreation,Python.PyMandatoryEncoding,Python.PyUnusedLocal,null.SyntaxError,Python.PyDecorator,Python.PyBroadException" collectionTime="1533196625022" />
+    </group>
+    <group name="vcs-options">
+      <project id="sandbox" values="perform.rollback.in.background.disabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,changelist.preselect.existing.disabled,perform.edit.in.background.enabled,commit.before.optimize.imports.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,show.changes.preview.disabled,perform.add_remove.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.smell.disabled,changelist.make.new.active.disabled,perform.commit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,commit.show.unversioned.enabled,perform.update.in.background.enabled" collectionTime="1533196624611" />
+    </group>
+    <group name="disabled-bundled-tools">
+      <project id="sandbox" values="Python.PyInterpreter" collectionTime="1533196625024" />
+    </group>
+    <group name="vcs">
+      <project id="sandbox" values="Git" collectionTime="1533196624614" />
+    </group>
+    <group name="file-type">
+      <project id="sandbox" values="IDEA_MODULE,Properties,UNKNOWN,Native,Image,JSON,CSS,ReST,Haskell,Perl,JavaScript,Python,IPNB,XML,ARCHIVE,HTML,SVG,SQL,C++,PLAIN_TEXT,PATCH,SnakeYAML" collectionTime="1533196625018" />
+    </group>
+    <group name="module type">
+      <project id="sandbox" values="PYTHON_MODULE" collectionTime="1533196625019" />
+    </group>
+    <group name="vcs-stats">
+      <project id="sandbox" values="vcs.roots.count.5+,unversioned.files.count.10K+,has.default.vcs.root.mapping.disabled,ignored.files.count.0,active.changelists.count.1" collectionTime="1533196624614" />
+    </group>
+  </component>
+  <component name="ToolWindowCollector">
+    <counts>
+      <entry toolWindow="Project by Activation" count="3" />
+      <entry toolWindow="TODO by Activation" count="1" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="12" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="1" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="6" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="3" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="6" />
+      <entry feature="ide.help.refactoring.safeDelete" count="2" />
+      <entry feature="ide.settings.Bash" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.Font" count="5" />
+      <entry feature="ide.settings.General" count="7" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Project_Interpreter" count="1" />
+      <entry feature="ide.settings.Python" count="16" />
+      <entry feature="ide.settings.Python Integrated Tools" count="1" />
+      <entry feature="ide.settings.Python_Integrated_Tools" count="7" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="162" />
+      <entry feature="tips.of.the.day.next" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" time="1533284216732" show-notification="false" />
+</application>

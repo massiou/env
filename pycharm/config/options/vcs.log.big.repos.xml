@@ -1,0 +1,8 @@
+<application>
+  <component name="Vcs.Log.Big.Repositories">
+    <option name="REPOSITORIES">
+      <repository path="$USER_HOME$/workspace/ring" />
+      <repository path="$USER_HOME$/workspace/ring_odr" />
+    </option>
+  </component>
+</application>
